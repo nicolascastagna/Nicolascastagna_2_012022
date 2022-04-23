@@ -1,14 +1,10 @@
-# Projet 2 Booki :
+# Projet 2 - Transformez une maquette en site web avec HTML & CSS - Booki :
 
-Il s'agit du second projet d'Openclassrooms, réalisé au mois de Janvier 2022
+Il s'agit du second projet d'Openclassrooms - réalisé au mois de Janvier 2022
 
 - Intégration de maquette en HTML et CSS, 
 - Interfaces responsives desktop, tablette, et smartphones,
 - Plusieurs effets CSS au survol, 
-
-Maquette du projet :
-
-![booki](https://user-images.githubusercontent.com/100592012/164773091-f1d1fe1d-7777-44ec-9af6-04b74e63caf6.png)
 
 Lien de la page GitHub : 
 
@@ -36,3 +32,7 @@ https://nicolascastagna.github.io/Nicolascastagna_4_042022/
 - Police Raleway pour l'ensemble du site.
 - Il n'est pas necessaire de versionné Git.
 - Utilisé la technologie Flexbox plutôt que Grid.
+
+### Maquette du projet :
+
+![booki](https://user-images.githubusercontent.com/100592012/164773091-f1d1fe1d-7777-44ec-9af6-04b74e63caf6.png)
